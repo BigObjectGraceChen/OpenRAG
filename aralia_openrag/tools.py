@@ -7,7 +7,7 @@ sys.path.append(parent_dir)
 
 import os
 import requests
-import aralia.schema as schema
+import aralia_openrag.schema as schema
 
 
 
